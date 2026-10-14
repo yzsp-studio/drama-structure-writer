@@ -1,0 +1,20 @@
+﻿display-name-zh: 结构式剧本创作
+version: 0.3.0
+tag-en: "Drama Writing / Structure"
+tag-cn: "剧本创作 / 结构优化"
+complete-tags-en:
+  - "Drama Writing / Creative Writing"
+  - "Script Optimization / Structure Diagnosis"
+complete-tags-cn:
+  - "剧本创作 / 长中短剧"
+  - "剧本优化 / 结构诊断"
+summary-en: "Chinese drama writing and optimization with popup narrative-method selection, recommendation reasoning, and full-chain lock QC."
+summary-cn: "用弹窗确认叙事方式并给出推荐理由，完成长中短剧结构创作与优化。"
+desc-en: "A local Skill for creating, expanding, diagnosing, and optimizing Chinese drama scripts. It uses automatic decisions with minimum necessary questions for technical facts, requires popup selection with recommendation reasoning for narrative methods such as linear narration, flashback, montage, parallel narration, cross-cutting, ensemble narration, restricted POV, unreliable narration, chaptered units, circular structure, and mock-documentary form, then adapts story architecture dynamically by drama type, total episode count, and target episode duration, covering long-form dramas, medium-form dramas, and 1-3 minute short-form dramas. It includes episode formulas, per-episode templates, hook and payoff systems, character/conflict design, foreshadowing tracking, script diagnosis, QC rules, and format-only normalization with continuous shot numbering, fixed shot headers, standardized dialogue / OS / VO prefixes, and strict no-content-change constraints."
+desc-cn: "用于创作、扩写、诊断和优化中文长剧 / 中剧 / 短剧剧本的本地 Skill。它会根据剧种、总集数和单集时长动态适配整剧结构，覆盖长剧、中剧以及单集1-3分钟短剧，内置自动抉择、最小必要提问、叙事方式弹窗选择与合理化建议、全链路连环锁QC、集数公式、单集模板、钩子爽点系统、人物冲突设计、伏笔追踪、剧本诊断与质检规则，以及仅格式规范化能力：分镜从1连续编号、固定分镜字段头、统一人物台词 / 内心独白 / 画外音前缀，并严格禁止增减原有剧情内容；并支持按台词字数、语速、表演留白、读屏与动作复杂度计算时长和推荐分镜数量，配套分段式 QC、连锁式 QC 确保长文执行完整性。"
+author-en: "User Local Skill"
+author-cn: "用户本地 Skill"
+source: local
+
+
+
